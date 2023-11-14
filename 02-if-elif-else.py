@@ -7,8 +7,17 @@ x = 5
 y = 10
 z = x > 10
 
-if z:  # inserir not
+if (x >= 5) and (y <= 10):
+    print('x: ' + str(x) + '\ny: ' + str(y))
+
+if (x > 5) or (y > 5):
+    print('Um dos valores é maior que 5.')
+
+if z:  # false
     print(str(x) + ' é maior que ' + str(y))
+
+if not z:  # true
+    print(str(x) + ' é maior que ' + str(y) + '?')
 
 hero = heros[-1].lower()
 

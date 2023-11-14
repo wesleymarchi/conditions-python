@@ -17,12 +17,10 @@ print("\n++++++++++++++++++++++++++++\n")
 # Continue é uma instrução que permite continuar o fluxo do código normalmente
 x = 0
 while x < 10:
-    #x += 1
     if x % 2 == 0:
-        print("Estou na condição do 'continue'")
+        print("[" + str(x) + "]" + " Estou na condição do 'continue'")
+        print("\tx = " + str(x) + "\n")
         x += 1
         continue
     else:
         x += 1
-
-    print(x)
