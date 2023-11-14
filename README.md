@@ -1,6 +1,6 @@
 # PYTHON: INTRODUÇÃO AOS OPERADORES, CONDICIONAIS E LOOPS
 
-Aula para explicar algumas estruturas em Python.
+Aula para explicar algumas estruturas em Python.<br />
 Foi utilizado: <br /> 
 - [x] PyCharm
 - [x] Python 3.10
