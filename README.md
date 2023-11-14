@@ -15,7 +15,7 @@ Foi utilizado: <br />
 - [x] Dicionário
 - [x] Funções
 
-## Pré-requisitos
+## Prerequisites
 
 É necessário instalar as seguintes ferramentas: <br />
 [Git](https://git-scm.com/) <br />
